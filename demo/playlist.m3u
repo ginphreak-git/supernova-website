@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="nova.uno" tvg-name="Nova Uno" group-title="Nova Intrattenimento" tvg-logo="https://ginphreak-git.github.io/supernova-website/demo/logos/nova-uno.png",Nova Uno
+https://ireplay.tv/test/blender.m3u8
+#EXTINF:-1 tvg-id="nova.due" tvg-name="Nova Due" group-title="Nova Intrattenimento" tvg-logo="https://ginphreak-git.github.io/supernova-website/demo/logos/nova-due.png",Nova Due
+https://demo.unified-streaming.com/k8s/live/stable/live.isml/.m3u8
+#EXTINF:-1 tvg-id="nova.tre" tvg-name="Nova Tre" group-title="Nova Intrattenimento" tvg-logo="https://ginphreak-git.github.io/supernova-website/demo/logos/nova-tre.png",Nova Tre
+https://demo.unified-streaming.com/k8s/live/stable/scte35.isml/.m3u8
+#EXTINF:-1 tvg-id="galassia.tv" tvg-name="Galassia TV" group-title="Nova Intrattenimento" tvg-logo="https://ginphreak-git.github.io/supernova-website/demo/logos/galassia-tv.png",Galassia TV
+https://demo.unified-streaming.com/k8s/live/stable/scte35.isml/.m3u8
+#EXTINF:-1 tvg-id="orbita.show" tvg-name="Orbita Show" group-title="Nova Intrattenimento" tvg-logo="https://ginphreak-git.github.io/supernova-website/demo/logos/orbita-show.png",Orbita Show
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
+#EXTINF:-1 tvg-id="aurora.life" tvg-name="Aurora Life" group-title="Nova Intrattenimento" tvg-logo="https://ginphreak-git.github.io/supernova-website/demo/logos/aurora-life.png",Aurora Life
+https://demo.unified-streaming.com/k8s/live/stable/live.isml/.m3u8
+#EXTINF:-1 tvg-id="meteora.fun" tvg-name="Meteora Fun" group-title="Nova Intrattenimento" tvg-logo="https://ginphreak-git.github.io/supernova-website/demo/logos/meteora-fun.png",Meteora Fun
+https://ireplay.tv/test/blender.m3u8
+#EXTINF:-1 tvg-id="zenit.musica" tvg-name="Zenit Musica" group-title="Nova Intrattenimento" tvg-logo="https://ginphreak-git.github.io/supernova-website/demo/logos/zenit-musica.png",Zenit Musica
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
+#EXTINF:-1 tvg-id="equinozio.tv" tvg-name="Equinozio TV" group-title="Nova Intrattenimento" tvg-logo="https://ginphreak-git.github.io/supernova-website/demo/logos/equinozio-tv.png",Equinozio TV
+https://demo.unified-streaming.com/k8s/live/stable/live.isml/.m3u8
+#EXTINF:-1 tvg-id="nova.cinema" tvg-name="Nova Cinema" group-title="Nova Cinema" tvg-logo="https://ginphreak-git.github.io/supernova-website/demo/logos/nova-cinema.png",Nova Cinema
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="nebula.movies" tvg-name="Nebula Movies" group-title="Nova Cinema" tvg-logo="https://ginphreak-git.github.io/supernova-website/demo/logos/nebula-movies.png",Nebula Movies
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="stella.classic" tvg-name="Stella Classic" group-title="Nova Cinema" tvg-logo="https://ginphreak-git.github.io/supernova-website/demo/logos/stella-classic.png",Stella Classic
+https://ireplay.tv/test/blender.m3u8
+#EXTINF:-1 tvg-id="andromeda.film" tvg-name="Andromeda Film" group-title="Nova Cinema" tvg-logo="https://ginphreak-git.github.io/supernova-website/demo/logos/andromeda-film.png",Andromeda Film
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="cinema.polare" tvg-name="Cinema Polare" group-title="Nova Cinema" tvg-logo="https://ginphreak-git.github.io/supernova-website/demo/logos/cinema-polare.png",Cinema Polare
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="supernova.premiere" tvg-name="Supernova Premiere" group-title="Nova Cinema" tvg-logo="https://ginphreak-git.github.io/supernova-website/demo/logos/supernova-premiere.png",Supernova Premiere
+https://ireplay.tv/test/blender.m3u8
+#EXTINF:-1 tvg-id="eclissi.noir" tvg-name="Eclissi Noir" group-title="Nova Cinema" tvg-logo="https://ginphreak-git.github.io/supernova-website/demo/logos/eclissi-noir.png",Eclissi Noir
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="pulsar.action" tvg-name="Pulsar Action" group-title="Nova Cinema" tvg-logo="https://ginphreak-git.github.io/supernova-website/demo/logos/pulsar-action.png",Pulsar Action
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="cometa.kids" tvg-name="Cometa Kids" group-title="Nova Kids e scienza" tvg-logo="https://ginphreak-git.github.io/supernova-website/demo/logos/cometa-kids.png",Cometa Kids
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="pianeta.scienza" tvg-name="Pianeta Scienza" group-title="Nova Kids e scienza" tvg-logo="https://ginphreak-git.github.io/supernova-website/demo/logos/pianeta-scienza.png",Pianeta Scienza
+https://demo.unified-streaming.com/k8s/live/stable/live.isml/.m3u8
+#EXTINF:-1 tvg-id="astro.doc" tvg-name="Astro Doc" group-title="Nova Kids e scienza" tvg-logo="https://ginphreak-git.github.io/supernova-website/demo/logos/astro-doc.png",Astro Doc
+https://demo.unified-streaming.com/k8s/live/stable/scte35.isml/.m3u8
+#EXTINF:-1 tvg-id="via.lattea.news" tvg-name="Via Lattea News" group-title="Nova Kids e scienza" tvg-logo="https://ginphreak-git.github.io/supernova-website/demo/logos/via-lattea-news.png",Via Lattea News
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
+#EXTINF:-1 tvg-id="luna.junior" tvg-name="Luna Junior" group-title="Nova Kids e scienza" tvg-logo="https://ginphreak-git.github.io/supernova-website/demo/logos/luna-junior.png",Luna Junior
+https://ireplay.tv/test/blender.m3u8
+#EXTINF:-1 tvg-id="cosmo.natura" tvg-name="Cosmo Natura" group-title="Nova Kids e scienza" tvg-logo="https://ginphreak-git.github.io/supernova-website/demo/logos/cosmo-natura.png",Cosmo Natura
+https://demo.unified-streaming.com/k8s/live/stable/scte35.isml/.m3u8
+#EXTINF:-1 tvg-id="quasar.tech" tvg-name="Quasar Tech" group-title="Nova Kids e scienza" tvg-logo="https://ginphreak-git.github.io/supernova-website/demo/logos/quasar-tech.png",Quasar Tech
+https://demo.unified-streaming.com/k8s/live/stable/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sintel (2010)" group-title="Animazione Blender" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Sintel_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",Sintel (2010)
+https://archive.org/download/Sintel/sintel-2048-stereo_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Big Buck Bunny (2008)" group-title="Animazione Blender" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/960px-Big_buck_bunny_poster_big.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",Big Buck Bunny (2008)
+https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elephants Dream (2006)" group-title="Animazione Blender" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/ElephantsDreamPoster.jpg/960px-ElephantsDreamPoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",Elephants Dream (2006)
+https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tears of Steel (2012)" group-title="Animazione Blender" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Tos-poster.png/960px-Tos-poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",Tears of Steel (2012)
+https://archive.org/download/Tears-of-Steel/tears_of_steel_1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos Laundromat (2015)" group-title="Animazione Blender" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/CosmosLaundromatPoster.jpg/960px-CosmosLaundromatPoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",Cosmos Laundromat (2015)
+https://archive.org/download/CosmosLaundromatFirstCycle/Cosmos%20Laundromat%20-%20First%20Cycle%20%281080p%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spring (2019)" group-title="Animazione Blender" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Spring2019PillarPosterBlender.jpg/960px-Spring2019PillarPosterBlender.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",Spring (2019)
+https://archive.org/download/spring_blenderopenmovie/Spring%20-%20Blender%20Open%20Movie%20-%20YouTube.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sprite Fright (2021)" group-title="Animazione Blender",Sprite Fright (2021)
+https://archive.org/download/sprite-fright/Sprite%20Fright%20-%20Open%20Movie%20by%20Blender%20Studio-804p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agent 327 (2017)" group-title="Animazione Blender",Agent 327 (2017)
+https://archive.org/download/agent327operationbarbershop/agent327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La signora del venerdì (1940)" group-title="Grandi classici" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/His_Girl_Friday_%281940_poster%29_crop.jpg/960px-His_Girl_Friday_%281940_poster%29_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",La signora del venerdì (1940)
+https://archive.org/download/his_girl_friday/his_girl_friday_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arriva John Doe (1941)" group-title="Grandi classici" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Poster_-_Meet_John_Doe_01.jpg/960px-Poster_-_Meet_John_Doe_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",Arriva John Doe (1941)
+https://archive.org/download/meet_john_doe/meet_john_doe_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sua Altezza si sposa (1951)" group-title="Grandi classici" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Fred_Astaire_and_Jane_Powell_in_Royal_Wedding.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",Sua Altezza si sposa (1951)
+https://archive.org/download/royal_wedding/royal_wedding_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cyrano de Bergerac (1950)" group-title="Grandi classici" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Cyrano_de_Bergerac_%281951_poster%29.jpg/960px-Cyrano_de_Bergerac_%281951_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",Cyrano de Bergerac (1950)
+https://archive.org/download/Cyrano_DeBergerac/Cyrano_De_Bergerac_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ho sognato un angelo (1941)" group-title="Grandi classici" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Cary_Grant-Irene_Dunne_in_Penny_Serenade.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",Ho sognato un angelo (1941)
+https://archive.org/download/penny_serenade/penny_serenade_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="McLintock! (1963)" group-title="Grandi classici" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/McLintock%21_4_%28cropped%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",McLintock! (1963)
+https://archive.org/download/mclintok_widescreen/McLintock_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La piccola principessa (1939)" group-title="Grandi classici",La piccola principessa (1939)
+https://archive.org/download/little_princess/little_princess_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La mia brunetta preferita (1947)" group-title="Grandi classici" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/My_Favorite_Brunette_%281947%29_by_Elliott_Nugent.webm/960px--My_Favorite_Brunette_%281947%29_by_Elliott_Nugent.webm.jpg",La mia brunetta preferita (1947)
+https://archive.org/download/my_favorite_brunette/my_favorite_brunette_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nosferatu (1922)" group-title="Cinema muto" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/9/90/Nosferatu_poster_%28Albin_Grau%2C_1922%29_1.jpg/960px-Nosferatu_poster_%28Albin_Grau%2C_1922%29_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",Nosferatu (1922)
+https://archive.org/download/Nosferatu_most_complete_version_93_mins./Nosferatu_1922_Symphony_of_Horror_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Il gabinetto del dottor Caligari (1920)" group-title="Cinema muto" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Das_Cabinet_des_Dr._Caligari.JPG/960px-Das_Cabinet_des_Dr._Caligari.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",Il gabinetto del dottor Caligari (1920)
+https://archive.org/download/DasKabinettdesDoktorCaligariTheCabinetofDrCaligari/The_Cabinet_of_Dr._Caligari_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Il fantasma dell'Opera (1925)" group-title="Cinema muto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Phantom_of_the_opera_1925_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",Il fantasma dell'Opera (1925)
+https://archive.org/download/ThePhantomoftheOpera/Phantom_of_the_Opera_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La corazzata Potëmkin (1925)" group-title="Cinema muto" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Vintage_Potemkin.jpg/960px-Vintage_Potemkin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",La corazzata Potëmkin (1925)
+https://archive.org/download/BattleshipPotemkin/Battleship_Potemkin_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Il mondo perduto (1925)" group-title="Cinema muto" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/The_Lost_World_%281925%29_-_film_poster.jpg/960px-The_Lost_World_%281925%29_-_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",Il mondo perduto (1925)
+https://archive.org/download/lost_world/lost_world_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="20.000 leghe sotto i mari (1916)" group-title="Cinema muto" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/20%2C000_Leagues_under_the_Sea_-_movie_ad_-_newspaper1917.jpg/960px-20%2C000_Leagues_under_the_Sea_-_movie_ad_-_newspaper1917.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",20.000 leghe sotto i mari (1916)
+https://archive.org/download/20000LeaguesUndertheSea/20000_Leagues_Under_the_Sea_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La maschera di ferro (1929)" group-title="Cinema muto" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Ironmaskposter.jpg/960px-Ironmaskposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",La maschera di ferro (1929)
+https://archive.org/download/iron_mask/iron_mask_256kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La casa dei fantasmi (1959)" group-title="Brivido e mistero" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/House_on_Haunted_Hill.jpg/960px-House_on_Haunted_Hill.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",La casa dei fantasmi (1959)
+https://archive.org/download/house_on_haunted_hill_ipod/house_on_haunted_hill_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnival of Souls (1962)" group-title="Brivido e mistero" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Carnival_of_Souls_%281962_pressbook_cover%29.jpg/960px-Carnival_of_Souls_%281962_pressbook_cover%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",Carnival of Souls (1962)
+https://archive.org/download/CarnivalofSouls/CarnivalOfSouls_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lo straniero (1946)" group-title="Brivido e mistero" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/The_Stranger_%281946_film_poster%29.jpg/960px-The_Stranger_%281946_film_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",Lo straniero (1946)
+https://archive.org/download/TheStranger_0/The_Stranger_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La strada scarlatta (1945)" group-title="Brivido e mistero" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Edward_G._Robinson_and_Joan_Bennett_in_%27Scarlet_Street%27%2C_1946.jpg/960px-Edward_G._Robinson_and_Joan_Bennett_in_%27Scarlet_Street%27%2C_1946.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",La strada scarlatta (1945)
+https://archive.org/download/ScarletStreet/Scarlet_Street_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Il tempo si è fermato (1954)" group-title="Brivido e mistero",Il tempo si è fermato (1954)
+https://archive.org/download/suddenly/suddenly_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="L'agente segreto (1936)" group-title="Brivido e mistero",L'agente segreto (1936)
+https://archive.org/download/Hitchcock_Secret_Agent/Secret_Agent_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Ghoul (1933)" group-title="Brivido e mistero" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/The_Ghoul_1933.ogv/330px--The_Ghoul_1933.ogv.jpg",The Ghoul (1933)
+https://archive.org/download/TheGhoul/TheGhoul_1933_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sherlock Holmes e l'arma segreta (1943)" group-title="Brivido e mistero" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Sherlock_Holmes_and_the_Secret_Weapon_%281943%29.webm/330px--Sherlock_Holmes_and_the_Secret_Weapon_%281943%29.webm.jpg",Sherlock Holmes e l'arma segreta (1943)
+https://archive.org/download/secret_weapon/secret_weapon_ipod_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Killers from Space (1954)" group-title="Fantascienza d'epoca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Killersfromspace1954USPD.JPG?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",Killers from Space (1954)
+https://archive.org/download/Killers_from_space/Killers_from_space_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Teenagers from Outer Space (1959)" group-title="Fantascienza d'epoca" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Teenagersouterspace.jpg/960px-Teenagersouterspace.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",Teenagers from Outer Space (1959)
+https://archive.org/download/teenagers_from_outerspace/Teenagers_from_Outer_Space_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I viaggi di Gulliver (1939)" group-title="Fantascienza d'epoca" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Gullivers_travel_poster_3.jpg/960px-Gullivers_travel_poster_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",I viaggi di Gulliver (1939)
+https://archive.org/download/gullivers_travels1939/gullivers_travels1939_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Il libro della giungla (1942)" group-title="Fantascienza d'epoca" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/The_Jungle_Book_%281942%29.webm/330px--The_Jungle_Book_%281942%29.webm.jpg",Il libro della giungla (1942)
+https://archive.org/download/JungleBook/Jungle_Book_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Le comiche di Charlot S01 E01 Il capo reparto" group-title="Serie classiche" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Charlie_Chaplin_portrait_Getty_1739411952.jpg/960px-Charlie_Chaplin_portrait_Getty_1739411952.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",Le comiche di Charlot S01 E01 Il capo reparto
+https://archive.org/download/CC_1916_05_15_TheFloorwalker/CC_1916_05_15_TheFloorwalker_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Le comiche di Charlot S01 E02 L'una di notte" group-title="Serie classiche" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Charlie_Chaplin_portrait_Getty_1739411952.jpg/960px-Charlie_Chaplin_portrait_Getty_1739411952.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",Le comiche di Charlot S01 E02 L'una di notte
+https://archive.org/download/CC_1916_08_07_One_A_M/CC_1916_08_07_One_A_M_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Le comiche di Charlot S01 E03 Il conte" group-title="Serie classiche" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Charlie_Chaplin_portrait_Getty_1739411952.jpg/960px-Charlie_Chaplin_portrait_Getty_1739411952.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",Le comiche di Charlot S01 E03 Il conte
+https://archive.org/download/CC_1916_09_04_TheCount/CC_1916_09_04_TheCount_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Le comiche di Charlot S01 E04 Il banco dei pegni" group-title="Serie classiche" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Charlie_Chaplin_portrait_Getty_1739411952.jpg/960px-Charlie_Chaplin_portrait_Getty_1739411952.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",Le comiche di Charlot S01 E04 Il banco dei pegni
+https://archive.org/download/CC_1916_10_02_ThePawnshop/CC_1916_10_02_ThePawnshop_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Le comiche di Charlot S02 E01 La pista di pattinaggio" group-title="Serie classiche" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Charlie_Chaplin_portrait_Getty_1739411952.jpg/960px-Charlie_Chaplin_portrait_Getty_1739411952.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",Le comiche di Charlot S02 E01 La pista di pattinaggio
+https://archive.org/download/CC_1916_12_04_TheRink/CC_1916_12_04_TheRink_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Le comiche di Charlot S02 E02 La cura miracolosa" group-title="Serie classiche" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Charlie_Chaplin_portrait_Getty_1739411952.jpg/960px-Charlie_Chaplin_portrait_Getty_1739411952.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",Le comiche di Charlot S02 E02 La cura miracolosa
+https://archive.org/download/CC_1917_04_16_TheCure/CC_1917_04_16_TheCure_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Le comiche di Charlot S02 E03 L'emigrante" group-title="Serie classiche" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Charlie_Chaplin_portrait_Getty_1739411952.jpg/960px-Charlie_Chaplin_portrait_Getty_1739411952.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",Le comiche di Charlot S02 E03 L'emigrante
+https://archive.org/download/CC_1917_06_17_TheImmigrant/CC_1917_06_17_TheImmigrant_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Le comiche di Charlot S02 E04 L'evaso" group-title="Serie classiche" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Charlie_Chaplin_portrait_Getty_1739411952.jpg/960px-Charlie_Chaplin_portrait_Getty_1739411952.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",Le comiche di Charlot S02 E04 L'evaso
+https://archive.org/download/CC_1917_10_22_TheAdventurer/CC_1917_10_22_TheAdventurer_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caminandes S01 E01 Llama Drama" group-title="Serie classiche" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Pablo_Vazquez_-_Caminandes_-_Episode_1_-_Llama_Drama_-_Cover_thumbnail.png/960px-Pablo_Vazquez_-_Caminandes_-_Episode_1_-_Llama_Drama_-_Cover_thumbnail.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",Caminandes S01 E01 Llama Drama
+https://archive.org/download/Caminandes1LlamaDrama/01_llama_drama_1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caminandes S01 E02 Gran Dillama" group-title="Serie classiche" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Pablo_Vazquez_-_Caminandes_-_Episode_1_-_Llama_Drama_-_Cover_thumbnail.png/960px-Pablo_Vazquez_-_Caminandes_-_Episode_1_-_Llama_Drama_-_Cover_thumbnail.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",Caminandes S01 E02 Gran Dillama
+https://archive.org/download/Caminandes2GranDillama/02_gran_dillama_1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caminandes S01 E03 Llamigos" group-title="Serie classiche" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Pablo_Vazquez_-_Caminandes_-_Episode_1_-_Llama_Drama_-_Cover_thumbnail.png/960px-Pablo_Vazquez_-_Caminandes_-_Episode_1_-_Llama_Drama_-_Cover_thumbnail.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",Caminandes S01 E03 Llamigos
+https://archive.org/download/CaminandesLlamigos/Caminandes_%20Llamigos-1080p.mp4
