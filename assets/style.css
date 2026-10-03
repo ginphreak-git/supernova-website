@@ -233,3 +233,32 @@ footer a { color: var(--muted); }
     border: 1px solid var(--line);
 }
 @media (max-width: 720px) { header.bar nav { gap: 10px; } }
+
+/* ---------- Versioni (cinque schede) ---------- */
+.platforms.five { display: flex; flex-wrap: wrap; justify-content: center; }
+.platforms.five .platform { flex: 1 1 300px; max-width: 362px; }
+.platform { display: flex; flex-direction: column; }
+.platform ul { flex: 1; }
+.platform .badge { align-self: flex-start; }
+.badge.link { background: var(--cosmic); color: #fff; text-decoration: none; padding: 7px 16px; box-shadow: 0 8px 22px rgba(31, 162, 255, .3); }
+.badge.link:hover { transform: translateY(-1px); }
+
+/* ---------- Raspberry Pi in primo piano ---------- */
+.spotlight {
+    display: grid; grid-template-columns: 1.05fr 1fr; gap: 48px; align-items: center;
+    padding: 44px; border-radius: 28px; border: 1px solid var(--line);
+    background: radial-gradient(ellipse at 100% 0%, rgba(123, 92, 255, .32), transparent 60%),
+                radial-gradient(ellipse at 0% 100%, rgba(31, 162, 255, .2), transparent 60%), var(--card);
+}
+.spotlight h2 { margin-top: 0; }
+.checks { list-style: none; padding: 0; margin: 22px 0 0; display: grid; gap: 12px; }
+.checks li { display: flex; gap: 12px; align-items: flex-start; color: var(--muted); }
+.checks li strong { color: var(--text); }
+.checks svg { flex: 0 0 22px; width: 22px; height: 22px; margin-top: 2px; padding: 3px; border-radius: 50%; fill: #fff; background: var(--cosmic); }
+.spotlight .shots { position: relative; padding: 0 0 22% 0; }
+.spotlight .shots img { border-radius: 14px; border: 1px solid var(--line); box-shadow: 0 24px 60px rgba(0, 0, 0, .5); }
+.spotlight .shots .back { width: 88%; }
+.spotlight .shots .front { position: absolute; width: 72%; right: 0; bottom: 0; }
+@media (max-width: 900px) {
+    .spotlight { grid-template-columns: 1fr; padding: 28px 20px; }
+}
